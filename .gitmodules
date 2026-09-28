@@ -1,0 +1,9 @@
+[submodule "submodules/gsplat"]
+	path = submodules/gsplat
+	url = https://github.com/nerfstudio-project/gsplat.git
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "submodules/Mask2Former"]
+	path = submodules/Mask2Former
+	url = https://github.com/facebookresearch/Mask2Former.git
